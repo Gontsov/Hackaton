@@ -1,0 +1,14 @@
+{
+  "name": "Hackaton",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
